@@ -86,7 +86,7 @@ div.logo {
     max-width: 21.0rem;
 }
 div.container {
-        padding: 2.0rem 2.0rem 3.0rem 2.0rem;
+        padding: 1.0rem 2.0rem 2.0rem 2.0rem;
 }
 svg {
     max-width: 5.5rem;
@@ -115,10 +115,11 @@ span {
 
 @media (min-width:1200px) {
 main {
-    padding: 4.0rem 1.0rem;
+    padding: 3.0rem 1.0rem;
+    max-width: 48.0rem;
 }
 }
 
 p.contact {
-    font-size: 65%;
+    font-size: 58%;
 }
